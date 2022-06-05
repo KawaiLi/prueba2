@@ -12,4 +12,5 @@ $header_html = '<html>
 <body>';
 $footer_hmtl = '</body>
 </html>';
+
 ?>
